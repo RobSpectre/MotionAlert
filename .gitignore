@@ -1,0 +1,17 @@
+bin
+build
+dist
+include
+lib
+.tox
+venv
+.coverage
+.Python
+*.pyc
+*.project
+*.pydevproject
+*.pyo
+*.swp
+*.coverage
+hackpack.egg-info
+images
